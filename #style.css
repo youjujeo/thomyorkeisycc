@@ -6,5 +6,7 @@
 
 body{
     background: yellowgreen;
-    color: blue;
+    color: violet;
+    font-size: 36px;
+    letter-spacing: 1px;
 }
